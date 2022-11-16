@@ -1,0 +1,19 @@
+https://github.com/widdix/aws-cf-templates/blob/master/vpc/vpc-nat-instance.yaml
+
+https://github.com/kennyk65/aws-vpc-cloud-formation/blob/master/base-vpc-example-improved.template.yml
+
+https://github.com/awslabs/aws-cloudformation-templates/blob/master/aws/services/VPC/VPC_With_Managed_NAT_And_Private_Subnet.yaml
+
+https://github.com/Atercatus/AWS-Cloudformation-examples/blob/master/EC2%20Examples/NAT-instance.yaml
+
+https://github.com/coopernurse/vpc-nat-cfn/blob/master/vpc-nat-cfn.yml
+
+https://gist.github.com/darylounet/2fed238c4fcc0a855bb8b995f7f9f585 --> IMP
+
+https://github.com/awslabs/aws-cloudformation-templates/blob/master/aws/services/ECS/FargateLaunchType/clusters/public-vpc.yml
+
+https://github.com/bertrandmartel/cloudformation-templates/blob/master/vpc-infra/nat-instances.yml
+
+https://github.com/aws-quickstart/quickstart-aws-vpc/blob/main/templates/aws-vpc.template.yaml --> IMP for all resource/parameter reference
+
+https://github.com/rcrelia/aws-mojo/blob/master/cloudformation/vpc-scenario-2-reference/aws-vpc-nat-instances.yml
